@@ -1,3 +1,6 @@
 apple
 fish
 cake
+spyder man
+doctor stanger
+installation
